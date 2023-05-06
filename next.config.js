@@ -1,4 +1,4 @@
 module.exports = {
-  basePath: "/AntonBabenko96/next.js-movies-app",
-  assetPrefix: "/AntonBabenko96/next.js-movies-app/",
+  basePath: "/next.js-movies-app",
+  assetPrefix: "/next.js-movies-app/",
 };
