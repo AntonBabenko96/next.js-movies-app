@@ -1,0 +1,21 @@
+.moviesList {
+    padding-left: 0;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+
+}
+
+.moviesItem {
+    text-decoration: none;
+    color: black;
+}
+
+.posterList {
+    width: 100px;
+}
+
+.poster {
+    width: 100px;
+}

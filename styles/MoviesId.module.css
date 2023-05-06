@@ -1,0 +1,21 @@
+.poster {
+    width: 150px;
+    margin-right: 30px;
+}
+
+.component {
+    width: 1160px;
+    display: flex;
+}
+
+.date {
+    font-size: 20px;
+}
+
+.buttonBack {
+    margin: 15px 15px 15px 0;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
