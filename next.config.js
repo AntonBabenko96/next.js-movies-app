@@ -1,8 +1,4 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  experimental: {
-    appDir: true,
-  },
-}
-
-module.exports = nextConfig
+module.exports = {
+  basePath: "/AntonBabenko96/next.js-movies-app",
+  assetPrefix: "/AntonBabenko96/next.js-movies-app/",
+};
